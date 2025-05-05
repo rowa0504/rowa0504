@@ -24,7 +24,7 @@
 He/Him
 
 ## ⚡ Fun fact:
-I’m studying programming and English in Cebu, Philippines — aiming to build apps that are both **useful** and **cool**, like "Petbook" for pet lovers 🐶🐱
+I’m studying programming and English in Cebu, Philippines — aiming to build apps that are both **useful** and **cool** like the app "Qhub" I'm making for the School BBS!
 
 ---
 
